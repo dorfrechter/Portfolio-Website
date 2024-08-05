@@ -4,7 +4,7 @@ import './index.scss'
 const ImageZone = ({img,cl}) => {
     return (
         <>
-        <img className={cl} src={img}/>
+        <img className={cl} src={img} alt=''/>
         </>
     )
 }

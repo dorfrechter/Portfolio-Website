@@ -2,7 +2,7 @@ import { Link, NavLink} from 'react-router-dom';
 import './index.scss';
 import logoDF from '../../assets/images/DF.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faHome, faUser, faFolder, faScrewdriverWrench} from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faHome, faUser, faScrewdriverWrench} from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 

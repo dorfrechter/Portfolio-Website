@@ -1,5 +1,5 @@
 import './index.scss';
-import { useEffect, useState } from 'react';
+
 
 const AnimatedLetters = ({ letterClass, letterArray, idx }) => {
 

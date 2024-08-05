@@ -2,8 +2,7 @@ import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
 import { useEffect, useState } from 'react';
 import ImageSlider from '../ImageSlider';
-import ImageZone from '../ImageZone';
-import pp2 from '../../assets/images/pp3.jpg';
+
 
 const About = () => {
     const [letterClass, setLetterClass] = useState('text-animate');

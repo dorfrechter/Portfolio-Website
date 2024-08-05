@@ -3,7 +3,6 @@ import AnimatedLetters from '../AnimatedLetters';
 import { useEffect, useState } from 'react';
 import { FontAwesomeIcon, } from '@fortawesome/react-fontawesome';
 import { faAngular,faReact,faJava,faHtml5,faCss3,faJs } from '@fortawesome/free-brands-svg-icons';
-import Loader from 'react-loaders'
 
 const Projects = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
