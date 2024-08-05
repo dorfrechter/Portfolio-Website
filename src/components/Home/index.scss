@@ -44,7 +44,7 @@
 
         }
         &::after{
-            content:'<h1/>';
+            content:'</h1>';
             font-family: 'La Belle Aurore';
             color: #8d8ca4;
             font-size: 24px;
@@ -75,7 +75,7 @@
         text-decoration: none;
         padding: 5px 20px;
         border: 1px solid #242425;
-        margin-top: 5px;
+        margin-top: 15px;
         float:left;
         animation: fadeIn 1s 2.5s backwards;
         white-space: nowrap;

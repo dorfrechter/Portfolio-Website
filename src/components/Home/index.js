@@ -9,7 +9,7 @@ import pp2 from '../../assets/images/pp3.jpg';
 const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate');
-    const nameArr = ['D', 'o', 'r', ' ','F', 'r', 'e', 'c', 'h', 't', 'e', 'r'];
+    const nameArr = ['D', 'o', 'r', ' ','F', 'r', 'e', 'c', 'h', 't', 'e', 'r', ','];
     const titleArr = ['S', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r'];
 
     useEffect(() => {  
@@ -28,10 +28,11 @@ const Home = () => {
                 <h1>
                 <span className={letterClass}>H</span>
                 <span className={`${letterClass} _12`}>i</span>
+                <span className={`${letterClass} _13`}>,     </span>
                 <br/>
-                <span className={`${letterClass} _13`}>I</span>
-                <span className={`${letterClass} _14`}>'    </span>
-                <span className={`${letterClass} _15`}>m     </span>
+                <span className={`${letterClass} _14`}>I</span>
+                <span className={`${letterClass} _15`}>'    </span>
+                <span className={`${letterClass} _16`}>m  </span>
                 <span> </span>
                 {/* Dor Frechter  */}
                 <AnimatedLetters letterClass={letterClass} letterArray={nameArr} idx={16}/>
