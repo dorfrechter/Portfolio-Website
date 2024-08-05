@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0d99ca8.css",
-    "main.js": "/static/js/main.a5ef6bd8.js",
-    "static/js/453.f972b080.chunk.js": "/static/js/453.f972b080.chunk.js",
-    "static/media/cool-pic1.jpg": "/static/media/cool-pic1.95f2b5e91da58b8ff892.jpg",
-    "static/media/cool-pic4.jpg": "/static/media/cool-pic4.2eca03e89727f7e81fbf.jpg",
-    "static/media/cool-pic2.jpg": "/static/media/cool-pic2.dfadd2c9f1bd252e39c3.jpg",
-    "static/media/cool-pic7.jpg": "/static/media/cool-pic7.ad3d1e9773b88fabf867.jpg",
-    "static/media/cool-pic6.jpg": "/static/media/cool-pic6.430d31e10dd38579645b.jpg",
-    "static/media/cool-pic5.jpg": "/static/media/cool-pic5.6a4c136702a12f35e063.jpg",
-    "static/media/pp3.jpg": "/static/media/pp3.f3e4a9a26902cc25e1e5.jpg",
-    "static/media/cool-pic8.jpg": "/static/media/cool-pic8.94b05842eb7797ea7aa2.jpg",
-    "static/media/cool-pic3.jpg": "/static/media/cool-pic3.4c9fe4f15e65c5ca538e.jpg",
-    "static/media/dor-design-contanct-removebg-preview.png": "/static/media/dor-design-contanct-removebg-preview.ee263f86e0bf9a8843cf.png",
-    "static/media/DF.png": "/static/media/DF.30f22177b7461901e9a9.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.c0d99ca8.css.map": "/static/css/main.c0d99ca8.css.map",
-    "main.a5ef6bd8.js.map": "/static/js/main.a5ef6bd8.js.map",
-    "453.f972b080.chunk.js.map": "/static/js/453.f972b080.chunk.js.map"
+    "main.css": "/Portfolio-Website/static/css/main.94b1d174.css",
+    "main.js": "/Portfolio-Website/static/js/main.6c3a6493.js",
+    "static/js/453.f972b080.chunk.js": "/Portfolio-Website/static/js/453.f972b080.chunk.js",
+    "static/media/cool-pic1.jpg": "/Portfolio-Website/static/media/cool-pic1.95f2b5e91da58b8ff892.jpg",
+    "static/media/cool-pic4.jpg": "/Portfolio-Website/static/media/cool-pic4.2eca03e89727f7e81fbf.jpg",
+    "static/media/cool-pic2.jpg": "/Portfolio-Website/static/media/cool-pic2.dfadd2c9f1bd252e39c3.jpg",
+    "static/media/cool-pic7.jpg": "/Portfolio-Website/static/media/cool-pic7.ad3d1e9773b88fabf867.jpg",
+    "static/media/cool-pic6.jpg": "/Portfolio-Website/static/media/cool-pic6.430d31e10dd38579645b.jpg",
+    "static/media/cool-pic5.jpg": "/Portfolio-Website/static/media/cool-pic5.6a4c136702a12f35e063.jpg",
+    "static/media/pp3.jpg": "/Portfolio-Website/static/media/pp3.f3e4a9a26902cc25e1e5.jpg",
+    "static/media/cool-pic8.jpg": "/Portfolio-Website/static/media/cool-pic8.94b05842eb7797ea7aa2.jpg",
+    "static/media/cool-pic3.jpg": "/Portfolio-Website/static/media/cool-pic3.4c9fe4f15e65c5ca538e.jpg",
+    "static/media/dor-design-contanct-removebg-preview.png": "/Portfolio-Website/static/media/dor-design-contanct-removebg-preview.ee263f86e0bf9a8843cf.png",
+    "static/media/DF.png": "/Portfolio-Website/static/media/DF.30f22177b7461901e9a9.png",
+    "static/media/helvetica-neu.ttf": "/Portfolio-Website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Portfolio-Website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/Portfolio-Website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.94b1d174.css.map": "/Portfolio-Website/static/css/main.94b1d174.css.map",
+    "main.6c3a6493.js.map": "/Portfolio-Website/static/js/main.6c3a6493.js.map",
+    "453.f972b080.chunk.js.map": "/Portfolio-Website/static/js/453.f972b080.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0d99ca8.css",
-    "static/js/main.a5ef6bd8.js"
+    "static/css/main.94b1d174.css",
+    "static/js/main.6c3a6493.js"
   ]
 }
