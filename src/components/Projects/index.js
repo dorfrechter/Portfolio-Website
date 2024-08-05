@@ -33,7 +33,7 @@ const Projects = () => {
                 <br></br>
                 <p>
                    Throughout the school year, I created many small applications to practice my programming skills using all of the above listed tools. For example, I developed an online developed an online trivia game called MyTrivia. I wrote the frontend using Javascript and SCSS, and the backend using PHP and PostgreSQL. In game, you can create an account, play a timed trivia game, gain personal achievments, and see how your scores stack up against other players on the leaderboard. The product is not finisished, but you can check it out
-                   <a href='https://cs4640.cs.virginia.edu/huz4kk/sprint4/' target='_blank' style={{textDecoration:'none', fontWeight:1000, opacity:'1', color:'black'}}> right here!</a>
+                   <a href='https://cs4640.cs.virginia.edu/huz4kk/sprint4/' target='_blank' rel="noreferrer"  style={{textDecoration:'none', fontWeight:1000, opacity:'1', color:'black'}}> right here!</a>
                 </p>
                 <br></br>
                 <p>
