@@ -1,0 +1,38 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+.text-animate{
+    display: inline-block;
+    opacity: 0;
+    animation: bounceIn 1s  1s ;
+    animation-fill-mode: forwards;
+    min-width: 10px;
+}
+.text-animate-hover{
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+    &:hover{
+        animation: rubberBand 1s;
+        animation-timing-function: ease;
+        color:rgb(33, 98, 163);
+
+    }
+
+}
+
+.hover{
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+    animation: rubberBand 1s;
+        animation-timing-function: ease;
+        color:rgb(33, 98, 163);
+
+}
+
+@for $i from 1 through 45  {
+    .text-animate._#{$i} {
+        animation-delay: 0.09s * $i;
+    }
+}
