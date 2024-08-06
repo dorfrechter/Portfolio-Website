@@ -40,7 +40,7 @@ const Contact = () => {
         <>
         <div className='container1 contact-page'>
             <div className='text-zone' style={{marginTop:'60px'}}>
-                <h1 style={{marginBottom:'70px'}}>
+                <h1 style={{marginBottom:'70px'} } id='contacth1'>
                     <AnimatedLetters  letterClass={letterClass} letterArray={['C', 'o','n','t','a','c','t',' ', 'M','e', '!']} idx={15} />
 
                 </h1>

@@ -10,8 +10,12 @@
     width: 500px;
     animation: 1s fadeIn 3s backwards;
     left: 25%;
-
-
-
 }
 
+
+@media (max-width: 1000px) {
+    .img-dor,
+    .img-design {
+        display: none;
+    }
+}

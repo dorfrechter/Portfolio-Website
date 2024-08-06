@@ -21,3 +21,28 @@
 
 
 }
+
+@media (max-width: 600px) {
+  .slider-zone{ 
+    top:80%;
+    width: 100%;
+    left: 1%;
+     
+  }
+}
+@media (max-height: 700px) {
+  .slider-zone{ 
+    top:97%;
+
+  }
+}
+
+
+
+
+@media (max-width: 1000px) {
+  .image-zone,
+  .img-design {
+      display: none;
+  }
+}
