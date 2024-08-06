@@ -31,25 +31,21 @@
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 650px) {
   .slider-zone{ 
-    top:95%;
+    top:100%;
      
   }
 }
-@media (max-height: 700px) {
-  .slider-zone{ 
-    top:97%;
-
-  }
-}
-
-@media (max-height: 650px) {
+@media (max-width: 420px) {
   .slider-zone{ 
     top:105%;
-
+     
   }
 }
+
+
+
 
 
 @media (max-width: 1000px) {
@@ -58,4 +54,6 @@
       display: none;
   }
 }
+
+
 
