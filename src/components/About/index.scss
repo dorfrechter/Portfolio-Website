@@ -30,13 +30,19 @@
      
   }
 }
+
+@media (max-width: 410px) {
+  .slider-zone{ 
+    top:90%;
+     
+  }
+}
 @media (max-height: 700px) {
   .slider-zone{ 
     top:97%;
 
   }
 }
-
 
 
 
