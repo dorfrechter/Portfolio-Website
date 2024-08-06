@@ -35,10 +35,10 @@ const Home = () => {
                 <span className={`${letterClass} _16`}>m  </span>
                 <span> </span>
                 {/* Dor Frechter  */}
-                <AnimatedLetters letterClass={letterClass} letterArray={nameArr} idx={16}/>
+                <AnimatedLetters letterClass={letterClass} letterArray={nameArr} idx={17}/>
                 <br/> 
                 {/* Software Developer */}
-                <AnimatedLetters letterClass={letterClass} letterArray={titleArr} idx={28}/>
+                <AnimatedLetters letterClass={letterClass} letterArray={titleArr} idx={30}/>
                 </h1>
                 <h2>Student at the University of Virginia
                      {/* <img classname = 'uva-logo' src={UOFVA} alt='UVA Logo'/>  */}
