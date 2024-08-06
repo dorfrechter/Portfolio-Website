@@ -8,17 +8,19 @@ import pp2 from '../../assets/images/pp3.jpg';
 
 const Home = () => {
 
-    const [letterClass, setLetterClass] = useState('text-animate');
+
     const nameArr = ['D', 'o', 'r', ' ','F', 'r', 'e', 'c', 'h', 't', 'e', 'r', ','];
     const titleArr = ['S', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r'];
+    const [letterClass, setLetterClass] = useState('text-animate');
 
-    useEffect(() => {  
-        return () =>  setTimeout(() => {
-            setLetterClass('text-animate-hover');
-        }, 4300);
-
+    useEffect(() => {
+      const timer = setTimeout(() => {
+        setLetterClass('text-animate-hover');
+      }, 4200);
+  
+      // Cleanup function to clear the timeout if the component unmounts early
+      return () => clearTimeout(timer);
     }, []);
-
 
 
 
