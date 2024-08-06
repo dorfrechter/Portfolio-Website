@@ -16,7 +16,7 @@ const Home = () => {
     useEffect(() => {
       const timer = setTimeout(() => {
         setLetterClass('text-animate-hover');
-      }, 4200);
+      }, 4300);
   
       // Cleanup function to clear the timeout if the component unmounts early
       return () => clearTimeout(timer);
