@@ -37,7 +37,7 @@ const Projects = () => {
                 </p>
                 <br></br>
                 <p>
-                    This past summer, I interned at a NYC based startup called RELLO. I worked with a team of three developers to maintain and develop the company's website. I developed a testing system for the website using Playwright, as well as a dashboard for testing results that will be used by the company's developers to ensure the state of the application is always up to date.
+                    This past summer, I interned at a NYC based startup called Rello. I worked with a team of three developers to maintain and develop the company's website. I developed a testing system for the website using Playwright, as well as a dashboard for testing results that will be used by the company's developers to ensure the state of the application is always up to date.
                 </p>
             </div>
 
